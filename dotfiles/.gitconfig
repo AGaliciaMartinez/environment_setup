@@ -1,0 +1,5 @@
+[user]
+	email = a.galicia@fz-juelich.de
+	name = AGaliciaMartinez
+[core]
+	excludesfile = /home/a.galicia/.gitignore

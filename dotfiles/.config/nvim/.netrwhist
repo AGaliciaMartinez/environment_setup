@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/jasnah/git_repo/qutip/qutip/tests'
+let g:netrw_dirhist_2='/home/jasnah/git_repo/qutip/qutip/solve'
+let g:netrw_dirhist_1='/home/kaladin/Documents/git/qutip/qutip-tensorflow/benchmarks'
+let g:netrw_dirhist_0='/home/kaladin/Documents/git/qutip/qutip/build'
+let g:netrw_dirhist_9='/home/kaladin/Documents/git/tensorflow/tensorflow/core/data'
+let g:netrw_dirhist_8='/home/kaladin/Documents/git/qutip/qutip-tensorflow/src/qutip_tensorflow/core/data'
+let g:netrw_dirhist_7='/home/kaladin/Documents/git/qutip/qutip-tensorflow/benchmarks'
+let g:netrw_dirhist_6='/home/kaladin/Documents/git/qutip/qutip/qutip'
+let g:netrw_dirhist_5='/home/asiergalicia/gitrepo/qutip-project/qutip-tensorflow/benchmarks'
+let g:netrw_dirhist_4='/home/asiergalicia/Documents/pCloudDocuments/univesity/master/thesis/thesis_report/chapter-3'
