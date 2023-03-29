@@ -137,6 +137,7 @@ export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/Devel
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+source $HOME/.local/bin/virtualenvwrapper.sh
 
 # Ipython breackpoint
 export PYTHONBREAKPOINT=ipdb.set_trace

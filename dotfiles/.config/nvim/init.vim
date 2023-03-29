@@ -10,7 +10,7 @@ Plug 'davidhalter/jedi-vim'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'deoplete-plugins/deoplete-jedi'
 	let g:deoplete#enable_at_startup = 1
-	let g:python3_host_prog = '/home/a.galicia/.virtualenvs/nvim/bin/python'
+	let g:python3_host_prog = '$HOME/.virtualenvs/nvim/bin/python'
 	let g:deoplete#sources#jedi#show_docstring = 0
 Plug 'scrooloose/nerdcommenter'
 Plug 'sbdchd/neoformat'
